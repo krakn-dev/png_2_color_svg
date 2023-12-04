@@ -14,7 +14,7 @@ cd Into it
 Clone Dependencies  
 `mkdir dependencies`  
 
-`git clone https://github.com/krakn-dev/img2svg depedencies/`  
+`git clone https://github.com/krakn-dev/img2svg dependencies/`  
 `git clone https://github.com/krakn-dev/CanvasLite dependencies/`  
 
 Create Input Folder  
